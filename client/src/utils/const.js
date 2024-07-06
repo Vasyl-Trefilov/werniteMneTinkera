@@ -1,0 +1,6 @@
+export const MENU_ROUTE = '/'
+export const REGISTRATION_ROUTE = '/registration'
+export const LOGIN_ROTE = '/login'
+export const CREATEORDER_ROUTE = '/createorder'
+export const ORDERS_ROUTE = '/orders'
+export const ORDERITEM_ROUTE = '/orderitem'
